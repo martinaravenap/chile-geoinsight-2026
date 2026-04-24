@@ -1,6 +1,6 @@
 # 🌍 Chile GeoInsight 2026
 
-Proyecto de análisis geoespacial de hospitales en Santiago usando Python, Streamlit y datos de OpenStreetMap.
+Proyecto de análisis geoespacial de accesibilidad a hospitales en Santiago usando Python, Streamlit y OpenStreetMap.
 
 ##  Objetivo
 Analizar la accesibilidad a hospitales en la Región Metropolitana de Chile.
