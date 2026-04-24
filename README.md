@@ -20,4 +20,4 @@ Comunas Principales: Maipu, La Florida y Santiago Centro.
 - Análisis de distancia
 
 ##  Ejecucion
-streamlit run app/mapa.py
+python -m streamlit run app/mapa.py
