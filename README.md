@@ -2,22 +2,22 @@
 
 Proyecto de análisis geoespacial de accesibilidad a hospitales en Santiago usando Python, Streamlit y OpenStreetMap.
 
-Objetivo
+## Objetivo
 Analizar la accesibilidad a hospitales en la Región Metropolitana de Chile.
 Comunas Principales: Maipu, La Florida y Santiago Centro.
 
-Tecnologias
+## Tecnologias
 Python
 Streamlit
 Folium
 OSMnx
 GeoPandas
 
-Resultados
+## Resultados
 Mapa interactivo
 Heatmap de hospitales
 Zonas de baja cobertura
 Análisis de distancia
 
-Ejecucion
+## Ejecucion
 python -m streamlit run app/mapa.py
