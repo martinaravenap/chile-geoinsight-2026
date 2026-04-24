@@ -6,7 +6,7 @@ Proyecto de análisis geoespacial de hospitales en Santiago usando Python, Strea
 Analizar la accesibilidad a hospitales en la Región Metropolitana de Chile.
 Comunas Principales: Maipu, La Florida y Santiago Centro.
 
-##  Tecnologías
+##  Tecnologias
 - Python
 - Streamlit
 - Folium
@@ -19,5 +19,5 @@ Comunas Principales: Maipu, La Florida y Santiago Centro.
 - Zonas de baja cobertura
 - Análisis de distancia
 
-##  Ejecución
+##  Ejecucion
 streamlit run app/mapa.py
