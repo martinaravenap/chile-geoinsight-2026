@@ -20,4 +20,10 @@ Zonas de baja cobertura
 Análisis de distancia
 
 ## Ejecucion
-python -m streamlit run app/mapa.py
+Chile GeoInsight Project
+##  Cómo ejecutar
+1. Instalar dependencias:
+```bash
+pip install -r requirements.txt
+streamlit run app/mapa.py
+http://localhost:8501
